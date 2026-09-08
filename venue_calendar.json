@@ -1,0 +1,282 @@
+{
+  "_meta": {
+    "version": 1,
+    "purpose": "Durable public calendar of recurring research-presentation venues. Historical timing is a monitoring prior, never proof that a current call is open.",
+    "last_curated": "2026-09-07"
+  },
+  "venues": {
+    "cepr_political_economy_symposium": {
+      "name": "CEPR Political Economy Symposium",
+      "category": "PROFESSIONAL",
+      "fields": [
+        "Political Economy"
+      ],
+      "official_url": "https://cepr.org/events/event-series/political-economy-programme-meeting",
+      "typical_open_months": [
+        8,
+        9
+      ],
+      "typical_deadline_months": [
+        9
+      ],
+      "typical_event_months": [
+        3,
+        4
+      ],
+      "phd_eligible_typically": true,
+      "paper_stage": "working or completed paper",
+      "priority": "high"
+    },
+    "iioc": {
+      "name": "International Industrial Organization Conference",
+      "category": "PROFESSIONAL",
+      "fields": [
+        "Industrial Organization"
+      ],
+      "official_url": "https://www.indorgsociety.org/conference",
+      "typical_open_months": [
+        12
+      ],
+      "typical_deadline_months": [
+        1,
+        2
+      ],
+      "typical_event_months": [
+        4,
+        5
+      ],
+      "phd_eligible_typically": true,
+      "paper_stage": "working paper",
+      "priority": "high"
+    },
+    "devpec": {
+      "name": "Development and Political Economics SF Bay Area Ph.D. Student Conference (DevPEC)",
+      "category": "GRADUATE",
+      "fields": [
+        "Political Economy",
+        "Development"
+      ],
+      "official_url": "https://sites.google.com/view/devpec/submit-your-paper",
+      "typical_open_months": [
+        10,
+        11,
+        12,
+        1
+      ],
+      "typical_deadline_months": [
+        2
+      ],
+      "typical_event_months": [
+        4
+      ],
+      "phd_eligible_typically": true,
+      "paper_stage": "work in progress / working paper",
+      "priority": "high"
+    },
+    "washu_egsc": {
+      "name": "Washington University Economics Graduate Student Conference",
+      "category": "GRADUATE",
+      "fields": [
+        "Industrial Organization",
+        "Applied Micro",
+        "General Economics"
+      ],
+      "official_url": "https://sites.wustl.edu/egsc/",
+      "typical_open_months": [
+        5,
+        6
+      ],
+      "typical_deadline_months": [
+        7
+      ],
+      "typical_event_months": [
+        10
+      ],
+      "phd_eligible_typically": true,
+      "paper_stage": "fully or nearly completed paper",
+      "priority": "medium"
+    },
+    "nber_summer_institute": {
+      "name": "NBER Summer Institute",
+      "category": "PROFESSIONAL",
+      "fields": [
+        "Political Economy",
+        "Industrial Organization",
+        "Environmental Economics"
+      ],
+      "official_url": "https://www.nber.org/calls-papers-and-proposals",
+      "typical_open_months": [
+        2,
+        3
+      ],
+      "typical_deadline_months": [
+        3
+      ],
+      "typical_event_months": [
+        7
+      ],
+      "phd_eligible_typically": true,
+      "paper_stage": "varies by workshop; Political Economy and Environment/Energy typically require completed papers",
+      "priority": "high"
+    },
+    "aere_summer": {
+      "name": "AERE Summer Conference",
+      "category": "PROFESSIONAL",
+      "fields": [
+        "Environmental Economics"
+      ],
+      "official_url": "https://www.aere.org/summer-conference",
+      "typical_open_months": [
+        12
+      ],
+      "typical_deadline_months": [
+        1
+      ],
+      "typical_event_months": [
+        6
+      ],
+      "phd_eligible_typically": true,
+      "paper_stage": "abstract / working paper",
+      "priority": "high"
+    },
+    "ftc_micro": {
+      "name": "FTC Microeconomics Conference",
+      "category": "WILDCARD",
+      "fields": [
+        "Industrial Organization",
+        "Applied Micro",
+        "Regulation"
+      ],
+      "official_url": "https://www.ftc.gov/microeconomics",
+      "typical_open_months": [
+        5,
+        6,
+        7
+      ],
+      "typical_deadline_months": [
+        7
+      ],
+      "typical_event_months": [
+        11
+      ],
+      "phd_eligible_typically": true,
+      "paper_stage": "abstract or completed paper; completed paper preferred",
+      "priority": "high"
+    },
+    "site": {
+      "name": "Stanford Institute for Theoretical Economics (SITE)",
+      "category": "PROFESSIONAL",
+      "fields": [
+        "Political Economy",
+        "Industrial Organization",
+        "Applied Micro"
+      ],
+      "official_url": "https://economics.stanford.edu/site/paper-submission",
+      "typical_open_months": [
+        3,
+        4,
+        5
+      ],
+      "typical_deadline_months": [
+        4,
+        5,
+        6
+      ],
+      "typical_event_months": [
+        7,
+        8,
+        9
+      ],
+      "phd_eligible_typically": true,
+      "paper_stage": "work in progress accepted unless a session says otherwise",
+      "priority": "high"
+    },
+    "heartland": {
+      "name": "Heartland Environmental and Resource Economics Workshop",
+      "category": "PROFESSIONAL",
+      "fields": [
+        "Environmental Economics"
+      ],
+      "official_url": "https://publish.illinois.edu/heartland/",
+      "typical_open_months": [
+        4,
+        5,
+        6
+      ],
+      "typical_deadline_months": [
+        6,
+        7
+      ],
+      "typical_event_months": [
+        10
+      ],
+      "phd_eligible_typically": true,
+      "paper_stage": "abstract / working paper",
+      "priority": "medium"
+    },
+    "ucsb_occasional": {
+      "name": "Occasional Workshop in Environmental and Resource Economics",
+      "category": "PROFESSIONAL",
+      "fields": [
+        "Environmental Economics"
+      ],
+      "official_url": "https://occasionalworkshop.weebly.com/",
+      "typical_open_months": [
+        6,
+        7
+      ],
+      "typical_deadline_months": [
+        7
+      ],
+      "typical_event_months": [
+        10,
+        11
+      ],
+      "phd_eligible_typically": true,
+      "paper_stage": "working paper; includes PhD student presentation formats",
+      "priority": "high"
+    },
+    "cu_environmental_workshop": {
+      "name": "CU Environmental & Resource Economics Workshop",
+      "category": "PROFESSIONAL",
+      "fields": [
+        "Environmental Economics"
+      ],
+      "official_url": "https://www.colorado.edu/economics/news-events/cu-environmental-resource-economics-workshop",
+      "typical_open_months": [
+        5,
+        6
+      ],
+      "typical_deadline_months": [
+        7
+      ],
+      "typical_event_months": [
+        9
+      ],
+      "phd_eligible_typically": true,
+      "paper_stage": "proposed research through polished projects",
+      "priority": "medium"
+    },
+    "camp_resources": {
+      "name": "Camp Resources",
+      "category": "GRADUATE",
+      "fields": [
+        "Environmental Economics"
+      ],
+      "official_url": "https://cenrep.ncsu.edu/events/camp-resources/",
+      "typical_open_months": [
+        4,
+        5
+      ],
+      "typical_deadline_months": [
+        5
+      ],
+      "typical_event_months": [
+        8
+      ],
+      "phd_eligible_typically": true,
+      "paper_stage": "early-stage research; abstract / research sketch",
+      "priority": "high"
+    }
+  }
+}

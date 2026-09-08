@@ -1,0 +1,52 @@
+name: Refresh opportunity cache
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "17 9 * * 1"
+    - cron: "17 11 * * 1"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: economics-opportunities-refresh
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@fbc6f3992d24b796d5a048ff273f7fcc4a7b6c09
+
+      - name: Set up Python
+        uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1
+        with:
+          python-version: "3.12"
+
+      - name: Refresh monitored sources
+        run: python refresh.py
+
+      - name: Validate JSON
+        run: |
+          python -m json.tool venue_calendar.json >/dev/null
+          python -m json.tool recruiting_calendar.json >/dev/null
+          python -m json.tool state.json >/dev/null
+
+      - name: Commit changed state
+        shell: bash
+        run: |
+          set -euo pipefail
+          git add state.json
+          if git diff --cached --quiet; then
+            echo "No state changes to commit."
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "Refresh opportunity monitor state"
+          git push

@@ -1,0 +1,127 @@
+{
+  "_meta": {
+    "version": 1,
+    "purpose": "Durable public tracker for research-oriented economics PhD recruiting and outreach. Ordinary job listings should not be surfaced unless they provide unusual research/outreach value.",
+    "last_curated": "2026-09-07"
+  },
+  "organizations": {
+    "amazon": {
+      "organization": "Amazon",
+      "priority": 0,
+      "field_fit": [
+        "Industrial Organization",
+        "Applied Micro",
+        "Econometrics"
+      ],
+      "official_urls": [
+        "https://www.amazon.jobs/en/job_categories/economics",
+        "https://www.amazon.science/research-areas/economics"
+      ],
+      "program_families": [
+        "Amazon Economics PhD outreach",
+        "Amazon Science economics outreach",
+        "Economics PhD informational sessions",
+        "PhD Economist Internship Program"
+      ],
+      "notes": "Priority 0. Check every weekly run. Surface outreach/research events first; an internship may qualify only when it offers unusually strong research exposure or structured economist interaction."
+    },
+    "analysis_group": {
+      "organization": "Analysis Group",
+      "priority": 1,
+      "field_fit": [
+        "Industrial Organization",
+        "Applied Micro",
+        "Economic Consulting"
+      ],
+      "official_urls": [
+        "https://www.analysisgroup.com/about/diversity-equity-and-inclusion-at-analysis-group/ignite-at-ag-externship/"
+      ],
+      "program_families": [
+        "Ignite@AG",
+        "PhD outreach"
+      ],
+      "notes": "High-value structured externship / economist exposure."
+    },
+    "bates_white": {
+      "organization": "Bates White",
+      "priority": 1,
+      "field_fit": [
+        "Industrial Organization",
+        "Competition",
+        "Applied Micro"
+      ],
+      "official_urls": [
+        "https://www.bateswhite.com/careers/phd"
+      ],
+      "program_families": [
+        "PhD info sessions",
+        "economist outreach"
+      ],
+      "notes": "Track PhD-specific informational or research-oriented events; do not surface ordinary openings by default."
+    },
+    "compass_lexecon": {
+      "organization": "Compass Lexecon",
+      "priority": 1,
+      "field_fit": [
+        "Industrial Organization",
+        "Competition",
+        "Applied Micro"
+      ],
+      "official_urls": [
+        "https://www.compasslexecon.com/careers/"
+      ],
+      "program_families": [
+        "PhD outreach",
+        "economics info sessions"
+      ],
+      "notes": "Track advanced-degree/economist events, not generic analyst recruiting."
+    },
+    "brattle": {
+      "organization": "The Brattle Group",
+      "priority": 1,
+      "field_fit": [
+        "Industrial Organization",
+        "Energy",
+        "Regulation"
+      ],
+      "official_urls": [
+        "https://www.brattle.com/careers/"
+      ],
+      "program_families": [
+        "PhD outreach",
+        "recruiting events"
+      ],
+      "notes": "Especially relevant where competition, regulation, or energy economics is substantive."
+    },
+    "rff": {
+      "organization": "Resources for the Future",
+      "priority": 2,
+      "field_fit": [
+        "Environmental Economics",
+        "Policy"
+      ],
+      "official_urls": [
+        "https://www.rff.org/"
+      ],
+      "program_families": [
+        "graduate research outreach",
+        "policy research events"
+      ],
+      "notes": "Academic-policy boundary; surface only unusually relevant graduate/research opportunities."
+    },
+    "citadel": {
+      "organization": "Citadel / Citadel Securities",
+      "priority": 3,
+      "field_fit": [
+        "Quantitative Research"
+      ],
+      "official_urls": [
+        "https://www.citadel.com/careers/programs-and-events/phd-summit/"
+      ],
+      "program_families": [
+        "PhD Summit"
+      ],
+      "notes": "Lower direct field fit and often invite-only. Surface only if an actionable application/nomination route exists and fit is exceptional."
+    }
+  }
+}
