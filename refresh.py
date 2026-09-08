@@ -16,9 +16,11 @@ novelty search, and personalized ranking.
 
 from __future__ import annotations
 
+import gzip
 import hashlib
 import html
 import json
+import zlib
 import os
 import re
 import sys
@@ -107,15 +109,27 @@ def fetch_page(url: str) -> Tuple[int, str, str]:
                 headers={
                     "User-Agent": USER_AGENT,
                     "Accept": "text/html,application/xhtml+xml,text/plain;q=0.9,*/*;q=0.5",
+                    "Accept-Encoding": "gzip, deflate",
                 },
             )
             with urlopen(request, timeout=TIMEOUT_SECONDS) as response:
                 status = getattr(response, "status", 200)
                 content_type = response.headers.get("Content-Type", "")
+                content_encoding = response.headers.get("Content-Encoding", "").lower()
                 raw = response.read(MAX_BYTES + 1)
 
             if len(raw) > MAX_BYTES:
                 raw = raw[:MAX_BYTES]
+
+            # Some otherwise healthy sites return compressed content to urllib.
+            # Decode it before text extraction; never hash compressed bytes as page text.
+            try:
+                if content_encoding == "gzip" or raw.startswith(b"\\x1f\\x8b"):
+                    raw = gzip.decompress(raw)
+                elif content_encoding == "deflate":
+                    raw = zlib.decompress(raw)
+            except (OSError, zlib.error) as exc:
+                raise RuntimeError(f"Could not decompress {content_encoding or 'gzip'} response: {exc}")
 
             visible = normalized_visible_text(raw, content_type)
             if status < 200 or status >= 400:
