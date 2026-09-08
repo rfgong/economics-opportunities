@@ -3,7 +3,7 @@
     "failure_count": 4,
     "last_run_ok": false,
     "note": "Page hashes are monitoring signals, not proof of an open or closed call. Weekly semantic verification is performed by the ChatGPT automation.",
-    "refreshed_at": "2026-09-08T02:08:29+00:00",
+    "refreshed_at": "2026-09-08T02:16:06+00:00",
     "version": 1
   },
   "recruiting": {
@@ -17,10 +17,10 @@
           "content_hash": "836498e26cf75ec857b6279901816fad63bd1bd82043a3efc881d320d7677068",
           "first_success_at": "2026-09-08T02:08:19+00:00",
           "last_changed_at": "2026-09-08T02:08:19+00:00",
-          "last_checked_at": "2026-09-08T02:08:19+00:00",
+          "last_checked_at": "2026-09-08T02:15:56+00:00",
           "last_error": null,
           "last_http_status": 200,
-          "last_success_at": "2026-09-08T02:08:19+00:00",
+          "last_success_at": "2026-09-08T02:15:56+00:00",
           "manual_review_required": false,
           "url": "https://www.amazon.jobs/en/job_categories/economics"
         },
@@ -30,10 +30,10 @@
           "content_hash": "721f8c9cd8946b400f6c8b5832feb187cf94817163950caaf875237b8cea4a75",
           "first_success_at": "2026-09-08T02:08:19+00:00",
           "last_changed_at": "2026-09-08T02:08:19+00:00",
-          "last_checked_at": "2026-09-08T02:08:19+00:00",
+          "last_checked_at": "2026-09-08T02:15:56+00:00",
           "last_error": null,
           "last_http_status": 200,
-          "last_success_at": "2026-09-08T02:08:19+00:00",
+          "last_success_at": "2026-09-08T02:15:56+00:00",
           "manual_review_required": false,
           "url": "https://www.amazon.science/research-areas/economics"
         }
@@ -49,10 +49,10 @@
           "content_hash": "7a6a0bb78d54d89a7095a26ba409fe040d1738bc7a0fe71f25d8e0ab3bc75317",
           "first_success_at": "2026-09-08T02:08:19+00:00",
           "last_changed_at": "2026-09-08T02:08:19+00:00",
-          "last_checked_at": "2026-09-08T02:08:19+00:00",
+          "last_checked_at": "2026-09-08T02:15:56+00:00",
           "last_error": null,
           "last_http_status": 200,
-          "last_success_at": "2026-09-08T02:08:19+00:00",
+          "last_success_at": "2026-09-08T02:15:56+00:00",
           "manual_review_required": false,
           "url": "https://www.analysisgroup.com/about/diversity-equity-and-inclusion-at-analysis-group/ignite-at-ag-externship/"
         }
@@ -64,14 +64,14 @@
       "sources": {
         "https://www.bateswhite.com/careers/phd": {
           "consecutive_failures": 0,
-          "content_excerpt": "\ufffd\b\u0000\u0000\u0000\u0000\u0000\u0000\u0003\ufffd}\ufffds\ufffdF\ufffd\ufffd\ufffd\ufffd\ufffd 0\ufffd\ufffdfR\ufffd\ufffd\ufffd~8\ufffd\ufffd\ufffd\ufffd\u011e\ufffd O\ufffd\ufffd;\u07ba\ufffd\ufffdH\ufffdD\u0004\u0012 \u0000RVv\ufffd\u007f\ufffd\ufffdw\ufffd\ufffd EQr\ufffd\ufffdd\ufffd\ufffdL,6\u001a\ufffd\u04ef\ufffd\ufffd\ufffd9\ufffd\ufffd\ufffd\ufffd\u06d3\ufffd\u007f{\ufffd\u0318\ufffd\ufffd\ufffd\ufffd\ufffdc\ufffd\u0018y\ufffd\ufffd \ufffd\u0140\u0019i2\ufffd\ufffd < \ufffd\u0013\ufffd\ufffd\ufffdf\ufffd\ufffd*[ N\ufffdE\ufffd.j\ufffd\ufffd\ufffd2 \u0018c\ufffdt4\ufffd\u04cf\ufffd!\ufffd|a\ufffdgIY\ufffd\ufffd\u046a>7\ufffd\ufffdq\ufffd \ufffd\u007f\ufffd\ufffd?1O\ufffd\ufffd2\ufffd\ufffd\ufffd\ufffd\u000f\ufffd\u0173\ufffdt2M{\ufffd-\ufffdb\ufffd\ufffd\ufffd\ufffd\u0460\ufffd>Z\ufffdy\ufffd0AV\ufffd\u000e\u000f///GgI\ufffdV\ufffd\ufffd\ufffdNG\ufffdb~8N\ufffd4-\ufffd\ufffd\ufffdlr\u0013\ufffd:\ufffd7\ufffd~={j\u0014\ufffdeQ\u05abEVgiu\u04c7\ufffd < \ufffd\ufffdwkFRa(\ufffdC\ufffd\ufffd2k;\ufffd\"?\ufffd\\\ufffd9\ufffd}\u02cdF?.\ufffd\ufffd\ufffdj\ufffd\u02ec\ufffd\ufffd\ufffd\u0011\ufffd1\ufffdUU\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\u07e3y\u000f \ufffdh _\u001b#\u3fcd\ufffd\b\ufffdxO\ufffd\ufffd3\ufffdZ\u0333\ufffd\u0001 < \ufffdVy\ufffd-\ufffd\ufffd\u000f\u0567\ufffd\ufffd\ufffdd\ufffd \ufffdYzI(\ufffdf^f\ufffdzv4I\ufffd\ufffd85\ufffdahd\ufffd$\ufffd\ufffdj\ufffd\ufffd\ufffd=0\ufffd\ufffd\u0440`\u07b5\ufffd \u001b\u000f \ufffd\ufffd\ufffd\ufffd(\ufffd\ufffdh\ufffd\u0001\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd\ufffd \ufffd\u0013~\ufffdO\ufffd\ufffd\ufffd\u0015&\ufffd\ufffd\ufffd\u007f=0\ufffd\u007f\u0013 \ufffdX < 2\u000e\ufffd~U\ufffdY:OFE9=\u0018\ufffdR\ufffd\ufffd\"\u07d6\ufffdd\ufffd\ufffd\ufffd\ufffdG\ufffd$\ufffd\ufffd]\ufffd6\ufffdW`a}\ufffd;\ufffd\ufffd)Y\u0001\u0213 \ufffd\ufffdS\ufffd%\ufffd\ufffd\ufffd8\\\ufffd$[(~Gf\ufffd\ufffd",
-          "content_hash": "9d7dcb077cd7f49d9415f190231d15e608d5a60c6854f573c0235b41c45622a1",
+          "content_excerpt": "PhD opportunities | Bates White Economic Consulting Cookie Settings Main Content Main Menu Menu Professionals Expertise Analytics & AI Engagements Careers Careers Careers Summer Consultant Program Bachelor's & master's opportunities Bachelor's & master's opportunities Case interview tips Example case interview PhD opportunities Business services opportunities Current openings About About Our firm Diversity, equality, inclusion, & belonging Community support News & publications Contact Search PhD",
+          "content_hash": "058e987703c4cd2514dd8938da072afe74ce4ff2b004c27950238cfae9f5d4a8",
           "first_success_at": "2026-09-08T02:08:19+00:00",
-          "last_changed_at": "2026-09-08T02:08:19+00:00",
-          "last_checked_at": "2026-09-08T02:08:19+00:00",
+          "last_changed_at": "2026-09-08T02:15:56+00:00",
+          "last_checked_at": "2026-09-08T02:15:56+00:00",
           "last_error": null,
           "last_http_status": 200,
-          "last_success_at": "2026-09-08T02:08:19+00:00",
+          "last_success_at": "2026-09-08T02:15:56+00:00",
           "manual_review_required": false,
           "url": "https://www.bateswhite.com/careers/phd"
         }
@@ -79,26 +79,26 @@
     },
     "brattle": {
       "all_sources_ok": false,
-      "manual_review_required": false,
+      "manual_review_required": true,
       "sources": {
         "https://www.brattle.com/careers/": {
-          "consecutive_failures": 1,
-          "last_checked_at": "2026-09-08T02:08:19+00:00",
+          "consecutive_failures": 2,
+          "last_checked_at": "2026-09-08T02:15:56+00:00",
           "last_error": "HTTP Error 403: Forbidden",
-          "manual_review_required": false,
+          "manual_review_required": true,
           "url": "https://www.brattle.com/careers/"
         }
       }
     },
     "citadel": {
       "all_sources_ok": false,
-      "manual_review_required": false,
+      "manual_review_required": true,
       "sources": {
         "https://www.citadel.com/careers/programs-and-events/phd-summit/": {
-          "consecutive_failures": 1,
-          "last_checked_at": "2026-09-08T02:08:19+00:00",
+          "consecutive_failures": 2,
+          "last_checked_at": "2026-09-08T02:15:56+00:00",
           "last_error": "HTTP Error 403: Forbidden",
-          "manual_review_required": false,
+          "manual_review_required": true,
           "url": "https://www.citadel.com/careers/programs-and-events/phd-summit/"
         }
       }
@@ -113,10 +113,10 @@
           "content_hash": "accf6209e7cc5737a08c2e6cc02604d02026e01dc2de5d0ceb887e3bd1b9ef13",
           "first_success_at": "2026-09-08T02:08:19+00:00",
           "last_changed_at": "2026-09-08T02:08:19+00:00",
-          "last_checked_at": "2026-09-08T02:08:19+00:00",
+          "last_checked_at": "2026-09-08T02:15:56+00:00",
           "last_error": null,
           "last_http_status": 200,
-          "last_success_at": "2026-09-08T02:08:19+00:00",
+          "last_success_at": "2026-09-08T02:15:56+00:00",
           "manual_review_required": false,
           "url": "https://www.compasslexecon.com/careers/"
         }
@@ -132,10 +132,10 @@
           "content_hash": "1a50cb9098d341ca77760f135c081633de7b9144eb253ca57e1e9c297a60d40e",
           "first_success_at": "2026-09-08T02:08:19+00:00",
           "last_changed_at": "2026-09-08T02:08:19+00:00",
-          "last_checked_at": "2026-09-08T02:08:19+00:00",
+          "last_checked_at": "2026-09-08T02:15:56+00:00",
           "last_error": null,
           "last_http_status": 200,
-          "last_success_at": "2026-09-08T02:08:19+00:00",
+          "last_success_at": "2026-09-08T02:15:56+00:00",
           "manual_review_required": false,
           "url": "https://www.rff.org/"
         }
@@ -153,10 +153,10 @@
           "content_hash": "04339de6c87271fd35da28ec043cbb84956fe69852226241e27f4e56ac5b8b32",
           "first_success_at": "2026-09-08T02:08:08+00:00",
           "last_changed_at": "2026-09-08T02:08:08+00:00",
-          "last_checked_at": "2026-09-08T02:08:08+00:00",
+          "last_checked_at": "2026-09-08T02:15:46+00:00",
           "last_error": null,
           "last_http_status": 200,
-          "last_success_at": "2026-09-08T02:08:08+00:00",
+          "last_success_at": "2026-09-08T02:15:46+00:00",
           "manual_review_required": false,
           "url": "https://www.aere.org/summer-conference"
         }
@@ -164,26 +164,26 @@
     },
     "camp_resources": {
       "all_sources_ok": false,
-      "manual_review_required": false,
+      "manual_review_required": true,
       "sources": {
         "https://cenrep.ncsu.edu/events/camp-resources/": {
-          "consecutive_failures": 1,
-          "last_checked_at": "2026-09-08T02:08:08+00:00",
+          "consecutive_failures": 2,
+          "last_checked_at": "2026-09-08T02:15:46+00:00",
           "last_error": "HTTP Error 403: Forbidden",
-          "manual_review_required": false,
+          "manual_review_required": true,
           "url": "https://cenrep.ncsu.edu/events/camp-resources/"
         }
       }
     },
     "cepr_political_economy_symposium": {
       "all_sources_ok": false,
-      "manual_review_required": false,
+      "manual_review_required": true,
       "sources": {
         "https://cepr.org/events/event-series/political-economy-programme-meeting": {
-          "consecutive_failures": 1,
-          "last_checked_at": "2026-09-08T02:08:08+00:00",
+          "consecutive_failures": 2,
+          "last_checked_at": "2026-09-08T02:15:46+00:00",
           "last_error": "HTTP Error 403: Forbidden",
-          "manual_review_required": false,
+          "manual_review_required": true,
           "url": "https://cepr.org/events/event-series/political-economy-programme-meeting"
         }
       }
@@ -198,10 +198,10 @@
           "content_hash": "75817e32fdbb2de5a165470078ddb02bf203754ea55f4ffd9bcb6cb399f7d318",
           "first_success_at": "2026-09-08T02:08:08+00:00",
           "last_changed_at": "2026-09-08T02:08:08+00:00",
-          "last_checked_at": "2026-09-08T02:08:08+00:00",
+          "last_checked_at": "2026-09-08T02:15:46+00:00",
           "last_error": null,
           "last_http_status": 200,
-          "last_success_at": "2026-09-08T02:08:08+00:00",
+          "last_success_at": "2026-09-08T02:15:46+00:00",
           "manual_review_required": false,
           "url": "https://www.colorado.edu/economics/news-events/cu-environmental-resource-economics-workshop"
         }
@@ -217,10 +217,10 @@
           "content_hash": "b84c5d77445f1446bba4916da6b8e19a9a8b602ef9d8eafd571b9c62315b5929",
           "first_success_at": "2026-09-08T02:08:08+00:00",
           "last_changed_at": "2026-09-08T02:08:08+00:00",
-          "last_checked_at": "2026-09-08T02:08:08+00:00",
+          "last_checked_at": "2026-09-08T02:15:46+00:00",
           "last_error": null,
           "last_http_status": 200,
-          "last_success_at": "2026-09-08T02:08:08+00:00",
+          "last_success_at": "2026-09-08T02:15:46+00:00",
           "manual_review_required": false,
           "url": "https://sites.google.com/view/devpec/submit-your-paper"
         }
@@ -236,10 +236,10 @@
           "content_hash": "9ce6cadf4daa997f5c5b443ed78b9993e2689420bd14b4da21a0b47ecf19cd16",
           "first_success_at": "2026-09-08T02:08:08+00:00",
           "last_changed_at": "2026-09-08T02:08:08+00:00",
-          "last_checked_at": "2026-09-08T02:08:08+00:00",
+          "last_checked_at": "2026-09-08T02:15:46+00:00",
           "last_error": null,
           "last_http_status": 200,
-          "last_success_at": "2026-09-08T02:08:08+00:00",
+          "last_success_at": "2026-09-08T02:15:46+00:00",
           "manual_review_required": false,
           "url": "https://www.ftc.gov/microeconomics"
         }
@@ -255,10 +255,10 @@
           "content_hash": "2a6dc0b391282de3fb594ecae029d65b641385dbcc333be75fa465a443514939",
           "first_success_at": "2026-09-08T02:08:08+00:00",
           "last_changed_at": "2026-09-08T02:08:08+00:00",
-          "last_checked_at": "2026-09-08T02:08:08+00:00",
+          "last_checked_at": "2026-09-08T02:15:46+00:00",
           "last_error": null,
           "last_http_status": 200,
-          "last_success_at": "2026-09-08T02:08:08+00:00",
+          "last_success_at": "2026-09-08T02:15:46+00:00",
           "manual_review_required": false,
           "url": "https://publish.illinois.edu/heartland/"
         }
@@ -274,10 +274,10 @@
           "content_hash": "f9ce4879458fd7c53d854884aad54c0f60b7e1a524e578957c9d05d245b29e86",
           "first_success_at": "2026-09-08T02:08:08+00:00",
           "last_changed_at": "2026-09-08T02:08:08+00:00",
-          "last_checked_at": "2026-09-08T02:08:08+00:00",
+          "last_checked_at": "2026-09-08T02:15:46+00:00",
           "last_error": null,
           "last_http_status": 200,
-          "last_success_at": "2026-09-08T02:08:08+00:00",
+          "last_success_at": "2026-09-08T02:15:46+00:00",
           "manual_review_required": false,
           "url": "https://www.indorgsociety.org/conference"
         }
@@ -293,10 +293,10 @@
           "content_hash": "e42f69c019c8d9c1b84bf2f48bc99f99cb752af5b9f977faa5beaca49ee6da9f",
           "first_success_at": "2026-09-08T02:08:08+00:00",
           "last_changed_at": "2026-09-08T02:08:08+00:00",
-          "last_checked_at": "2026-09-08T02:08:08+00:00",
+          "last_checked_at": "2026-09-08T02:15:46+00:00",
           "last_error": null,
           "last_http_status": 200,
-          "last_success_at": "2026-09-08T02:08:08+00:00",
+          "last_success_at": "2026-09-08T02:15:46+00:00",
           "manual_review_required": false,
           "url": "https://www.nber.org/calls-papers-and-proposals"
         }
@@ -312,10 +312,10 @@
           "content_hash": "4f3e568c4fecee899128bd33c10a6386212225673ef9532925a4dfbbc2a315b6",
           "first_success_at": "2026-09-08T02:08:08+00:00",
           "last_changed_at": "2026-09-08T02:08:08+00:00",
-          "last_checked_at": "2026-09-08T02:08:08+00:00",
+          "last_checked_at": "2026-09-08T02:15:46+00:00",
           "last_error": null,
           "last_http_status": 200,
-          "last_success_at": "2026-09-08T02:08:08+00:00",
+          "last_success_at": "2026-09-08T02:15:46+00:00",
           "manual_review_required": false,
           "url": "https://economics.stanford.edu/site/paper-submission"
         }
@@ -331,10 +331,10 @@
           "content_hash": "2fb5830b279569098da7ad9aea9e802da7d9d79552c01f62481d7634b6ab39e3",
           "first_success_at": "2026-09-08T02:08:08+00:00",
           "last_changed_at": "2026-09-08T02:08:08+00:00",
-          "last_checked_at": "2026-09-08T02:08:08+00:00",
+          "last_checked_at": "2026-09-08T02:15:46+00:00",
           "last_error": null,
           "last_http_status": 200,
-          "last_success_at": "2026-09-08T02:08:08+00:00",
+          "last_success_at": "2026-09-08T02:15:46+00:00",
           "manual_review_required": false,
           "url": "https://occasionalworkshop.weebly.com/"
         }
@@ -350,10 +350,10 @@
           "content_hash": "87a05ab971e29dedf33a6aff47edca89dc0e33e32f38f0242b84fdd392c0e92c",
           "first_success_at": "2026-09-08T02:08:08+00:00",
           "last_changed_at": "2026-09-08T02:08:08+00:00",
-          "last_checked_at": "2026-09-08T02:08:08+00:00",
+          "last_checked_at": "2026-09-08T02:15:46+00:00",
           "last_error": null,
           "last_http_status": 200,
-          "last_success_at": "2026-09-08T02:08:08+00:00",
+          "last_success_at": "2026-09-08T02:15:46+00:00",
           "manual_review_required": false,
           "url": "https://sites.wustl.edu/egsc/"
         }
