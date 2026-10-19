@@ -2,7 +2,7 @@
   "_meta": {
     "version": 1,
     "purpose": "Durable public calendar of recurring research-presentation venues. Historical timing is a monitoring prior, never proof that a current call is open.",
-    "last_curated": "2026-09-07"
+    "last_curated": "2026-10-19"
   },
   "venues": {
     "cepr_political_economy_symposium": {
@@ -117,6 +117,34 @@
       ],
       "phd_eligible_typically": true,
       "paper_stage": "varies by workshop; Political Economy and Environment/Energy typically require completed papers",
+      "priority": "high"
+    },
+    "nber_economic_analysis_regulation": {
+      "name": "NBER Economic Analysis of Regulation",
+      "category": "PROFESSIONAL",
+      "fields": [
+        "Political Economy",
+        "Industrial Organization",
+        "Environmental Economics",
+        "Regulation"
+      ],
+      "official_url": "https://www.nber.org/calls-papers-and-proposals/economic-analysis-regulation",
+      "typical_open_months": [
+        10,
+        11,
+        12,
+        1,
+        2
+      ],
+      "typical_deadline_months": [
+        2
+      ],
+      "typical_event_months": [
+        4,
+        5
+      ],
+      "phd_eligible_typically": true,
+      "paper_stage": "completed working paper",
       "priority": "high"
     },
     "aere_summer": {
