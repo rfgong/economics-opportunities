@@ -56,6 +56,8 @@ Rank principally on:
 - acceptance feasibility;
 - quality of discussion format and funding/logistics.
 
+For currently open calls, rank by expected intellectual and career value, not deadline proximity. Surface exceptionally relevant calls even when their deadlines are months away; use deadline proximity only for urgency.
+
 ## RECRUITING & INDUSTRY OUTREACH
 
 Return at most 2 and never let recruiting displace a research-presentation item.
