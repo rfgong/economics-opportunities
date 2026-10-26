@@ -3,7 +3,7 @@
     "failure_count": 3,
     "last_run_ok": false,
     "note": "Page hashes are monitoring signals, not proof of an open or closed call. Weekly semantic verification is performed by the ChatGPT automation.",
-    "refreshed_at": "2026-10-26T16:11:14+00:00",
+    "refreshed_at": "2026-10-26T17:25:45+00:00",
     "version": 1
   },
   "recruiting": {
@@ -14,13 +14,13 @@
         "https://www.amazon.jobs/en/job_categories/economics": {
           "consecutive_failures": 0,
           "content_excerpt": "Economics Teams Locations Job categories Resources Accommodations Benefits Inclusive experiences Interviewing at Amazon Leadership Principles Working at Amazon FAQ Language: en-US Search Language: en-US Search for jobs Title or keyword Location Search Economics Our economists think big and bold. They\u2019re drawn by the thrill of working for a world leader in technology, retail, and content, and helping solve big problems. Browse open roles Bold ideas, powerful results Economists at Amazon are solvi",
-          "content_hash": "98f0e2707b3e02baf6a3a04cde647a4e7cd45df7632c8c8fd7d9cfbd0a5235e8",
+          "content_hash": "283aed1b3672e33214b5cb7fe7d27928030007bcfb066e5f7f1bd573b01fb5a7",
           "first_success_at": "2026-09-08T02:08:19+00:00",
-          "last_changed_at": "2026-10-26T16:11:08+00:00",
-          "last_checked_at": "2026-10-26T16:11:08+00:00",
+          "last_changed_at": "2026-10-26T17:25:39+00:00",
+          "last_checked_at": "2026-10-26T17:25:39+00:00",
           "last_error": null,
           "last_http_status": 200,
-          "last_success_at": "2026-10-26T16:11:08+00:00",
+          "last_success_at": "2026-10-26T17:25:39+00:00",
           "manual_review_required": false,
           "url": "https://www.amazon.jobs/en/job_categories/economics"
         },
@@ -30,10 +30,10 @@
           "content_hash": "6ec712412930cd7d85b6fad82012834dbae9edad7726a1829311e648a7e9ffb6",
           "first_success_at": "2026-09-08T02:08:19+00:00",
           "last_changed_at": "2026-10-26T16:11:08+00:00",
-          "last_checked_at": "2026-10-26T16:11:08+00:00",
+          "last_checked_at": "2026-10-26T17:25:39+00:00",
           "last_error": null,
           "last_http_status": 200,
-          "last_success_at": "2026-10-26T16:11:08+00:00",
+          "last_success_at": "2026-10-26T17:25:39+00:00",
           "manual_review_required": false,
           "url": "https://www.amazon.science/research-areas/economics"
         }
@@ -49,10 +49,10 @@
           "content_hash": "278ae22b12dc60f6b3ad9d2ad9bb2a38d2b53ad05d0948fb96d05f5b18b0eb49",
           "first_success_at": "2026-09-08T02:08:19+00:00",
           "last_changed_at": "2026-10-19T16:31:10+00:00",
-          "last_checked_at": "2026-10-26T16:11:08+00:00",
+          "last_checked_at": "2026-10-26T17:25:39+00:00",
           "last_error": null,
           "last_http_status": 200,
-          "last_success_at": "2026-10-26T16:11:08+00:00",
+          "last_success_at": "2026-10-26T17:25:39+00:00",
           "manual_review_required": false,
           "url": "https://www.analysisgroup.com/about/diversity-equity-and-inclusion-at-analysis-group/ignite-at-ag-externship/"
         }
@@ -68,10 +68,10 @@
           "content_hash": "5a8fe38ce7fa1dbb25649cd5b4f753fc633e91cb863f4df7b27777d7ed832e81",
           "first_success_at": "2026-09-08T02:08:19+00:00",
           "last_changed_at": "2026-10-05T18:33:15+00:00",
-          "last_checked_at": "2026-10-26T16:11:08+00:00",
+          "last_checked_at": "2026-10-26T17:25:39+00:00",
           "last_error": null,
           "last_http_status": 200,
-          "last_success_at": "2026-10-26T16:11:08+00:00",
+          "last_success_at": "2026-10-26T17:25:39+00:00",
           "manual_review_required": false,
           "url": "https://www.bateswhite.com/careers/phd"
         }
@@ -87,10 +87,10 @@
           "content_hash": "b8c759d3579c6b9604e41e383f189d54a42006be0752c8a6f12caa70c2d23693",
           "first_success_at": "2026-09-28T17:42:10+00:00",
           "last_changed_at": "2026-10-26T16:11:08+00:00",
-          "last_checked_at": "2026-10-26T16:11:08+00:00",
+          "last_checked_at": "2026-10-26T17:25:39+00:00",
           "last_error": null,
           "last_http_status": 200,
-          "last_success_at": "2026-10-26T16:11:08+00:00",
+          "last_success_at": "2026-10-26T17:25:39+00:00",
           "manual_review_required": false,
           "url": "https://www.brattle.com/careers/"
         }
@@ -101,8 +101,8 @@
       "manual_review_required": true,
       "sources": {
         "https://www.citadel.com/careers/programs-and-events/phd-summit/": {
-          "consecutive_failures": 15,
-          "last_checked_at": "2026-10-26T16:11:08+00:00",
+          "consecutive_failures": 16,
+          "last_checked_at": "2026-10-26T17:25:39+00:00",
           "last_error": "HTTP Error 403: Forbidden",
           "manual_review_required": true,
           "url": "https://www.citadel.com/careers/programs-and-events/phd-summit/"
@@ -116,13 +116,13 @@
         "https://www.compasslexecon.com/careers/": {
           "consecutive_failures": 0,
           "content_excerpt": "Careers | Compass Lexecon Menu Professionals Services Cases Insights Careers Professionals Professionals menu Close menu Our professionals Our staff includes more than 700 employees, including professional consultants, analysts, and practice support personnel that span 23 offices across the globe. All professionals Services Services menu Close menu Services Core services Antitrust & Competition Bankruptcy & Financial Distress Litigation Derivatives & Structured Finance International Arbitration ",
-          "content_hash": "cc8774aa172850b1d724d0ad86ca7e9ce7ea8509d5039d95717b65b9507bc1a9",
+          "content_hash": "00109baea106cb51a22c741c3e357f2f87c4ea05b9e1ee43bf7b68c65b013c15",
           "first_success_at": "2026-09-08T02:08:19+00:00",
-          "last_changed_at": "2026-10-26T16:11:08+00:00",
-          "last_checked_at": "2026-10-26T16:11:08+00:00",
+          "last_changed_at": "2026-10-26T17:25:39+00:00",
+          "last_checked_at": "2026-10-26T17:25:39+00:00",
           "last_error": null,
           "last_http_status": 200,
-          "last_success_at": "2026-10-26T16:11:08+00:00",
+          "last_success_at": "2026-10-26T17:25:39+00:00",
           "manual_review_required": false,
           "url": "https://www.compasslexecon.com/careers/"
         }
@@ -138,10 +138,10 @@
           "content_hash": "0c793b002a72a993035e442e5b4e7e54ee226273e6b769d9bacc43ade578dce0",
           "first_success_at": "2026-09-08T02:08:19+00:00",
           "last_changed_at": "2026-10-26T16:11:08+00:00",
-          "last_checked_at": "2026-10-26T16:11:08+00:00",
+          "last_checked_at": "2026-10-26T17:25:39+00:00",
           "last_error": null,
           "last_http_status": 200,
-          "last_success_at": "2026-10-26T16:11:08+00:00",
+          "last_success_at": "2026-10-26T17:25:39+00:00",
           "manual_review_required": false,
           "url": "https://www.rff.org/"
         }
@@ -159,10 +159,10 @@
           "content_hash": "ff85c3c6b184c331b973068a2114421045208d06cc9adde0b13bdcdbd0e46665",
           "first_success_at": "2026-09-08T02:08:08+00:00",
           "last_changed_at": "2026-10-26T16:10:53+00:00",
-          "last_checked_at": "2026-10-26T16:10:53+00:00",
+          "last_checked_at": "2026-10-26T17:25:13+00:00",
           "last_error": null,
           "last_http_status": 200,
-          "last_success_at": "2026-10-26T16:10:53+00:00",
+          "last_success_at": "2026-10-26T17:25:13+00:00",
           "manual_review_required": false,
           "url": "https://www.aere.org/summer-conference"
         }
@@ -173,8 +173,8 @@
       "manual_review_required": true,
       "sources": {
         "https://cenrep.ncsu.edu/events/camp-resources/": {
-          "consecutive_failures": 15,
-          "last_checked_at": "2026-10-26T16:10:53+00:00",
+          "consecutive_failures": 16,
+          "last_checked_at": "2026-10-26T17:25:13+00:00",
           "last_error": "HTTP Error 403: Forbidden",
           "manual_review_required": true,
           "url": "https://cenrep.ncsu.edu/events/camp-resources/"
@@ -186,8 +186,8 @@
       "manual_review_required": true,
       "sources": {
         "https://cepr.org/events/event-series/political-economy-programme-meeting": {
-          "consecutive_failures": 15,
-          "last_checked_at": "2026-10-26T16:10:53+00:00",
+          "consecutive_failures": 16,
+          "last_checked_at": "2026-10-26T17:25:13+00:00",
           "last_error": "HTTP Error 403: Forbidden",
           "manual_review_required": true,
           "url": "https://cepr.org/events/event-series/political-economy-programme-meeting"
@@ -204,10 +204,10 @@
           "content_hash": "a0602763bce1a8f68dc773bc7767f5a8994e3142073f5cf942dde050ce6a572d",
           "first_success_at": "2026-09-08T02:08:08+00:00",
           "last_changed_at": "2026-09-21T15:55:45+00:00",
-          "last_checked_at": "2026-10-26T16:10:53+00:00",
+          "last_checked_at": "2026-10-26T17:25:13+00:00",
           "last_error": null,
           "last_http_status": 200,
-          "last_success_at": "2026-10-26T16:10:53+00:00",
+          "last_success_at": "2026-10-26T17:25:13+00:00",
           "manual_review_required": false,
           "url": "https://www.colorado.edu/economics/news-events/cu-environmental-resource-economics-workshop"
         }
@@ -223,10 +223,10 @@
           "content_hash": "b84c5d77445f1446bba4916da6b8e19a9a8b602ef9d8eafd571b9c62315b5929",
           "first_success_at": "2026-09-08T02:08:08+00:00",
           "last_changed_at": "2026-09-08T02:08:08+00:00",
-          "last_checked_at": "2026-10-26T16:10:53+00:00",
+          "last_checked_at": "2026-10-26T17:25:13+00:00",
           "last_error": null,
           "last_http_status": 200,
-          "last_success_at": "2026-10-26T16:10:53+00:00",
+          "last_success_at": "2026-10-26T17:25:13+00:00",
           "manual_review_required": false,
           "url": "https://sites.google.com/view/devpec/submit-your-paper"
         }
@@ -239,13 +239,13 @@
         "https://www.ftc.gov/microeconomics": {
           "consecutive_failures": 0,
           "content_excerpt": "Nineteenth Annual Microeconomics Conference | Federal Trade Commission Skip to main content An official website of the United States government Here\u2019s how you know Here's how you know The .gov means it\u2019s official. Federal government websites often end in .gov or .mil. Before sharing sensitive information, make sure you\u2019re on a federal government site. The site is secure. The https:// ensures that you are connecting to the official website and that any information you provide is encrypted and tra",
-          "content_hash": "25a878ebb9a37cc6f0697e246050e6cf3ecf5edc2a143f713c9b2c925397163e",
+          "content_hash": "18f172340f7d30592904a0ab2cf35609e7172a0dc06f65b83a8043cf5c8f857f",
           "first_success_at": "2026-09-08T02:08:08+00:00",
-          "last_changed_at": "2026-10-26T16:10:53+00:00",
-          "last_checked_at": "2026-10-26T16:10:53+00:00",
+          "last_changed_at": "2026-10-26T17:25:13+00:00",
+          "last_checked_at": "2026-10-26T17:25:13+00:00",
           "last_error": null,
           "last_http_status": 200,
-          "last_success_at": "2026-10-26T16:10:53+00:00",
+          "last_success_at": "2026-10-26T17:25:13+00:00",
           "manual_review_required": false,
           "url": "https://www.ftc.gov/microeconomics"
         }
@@ -261,10 +261,10 @@
           "content_hash": "c253f6039f3dec693de1e78c853eb9a95a366a4f4de333dede757ec109725296",
           "first_success_at": "2026-09-08T02:08:08+00:00",
           "last_changed_at": "2026-10-26T16:10:53+00:00",
-          "last_checked_at": "2026-10-26T16:10:53+00:00",
+          "last_checked_at": "2026-10-26T17:25:13+00:00",
           "last_error": null,
           "last_http_status": 200,
-          "last_success_at": "2026-10-26T16:10:53+00:00",
+          "last_success_at": "2026-10-26T17:25:13+00:00",
           "manual_review_required": false,
           "url": "https://publish.illinois.edu/heartland/"
         }
@@ -280,10 +280,10 @@
           "content_hash": "6066e03cc91175592ec999b03762dad907f6a64d5ecc530bc8d1f01f2de21772",
           "first_success_at": "2026-09-08T02:08:08+00:00",
           "last_changed_at": "2026-10-05T18:33:00+00:00",
-          "last_checked_at": "2026-10-26T16:10:53+00:00",
+          "last_checked_at": "2026-10-26T17:25:13+00:00",
           "last_error": null,
           "last_http_status": 200,
-          "last_success_at": "2026-10-26T16:10:53+00:00",
+          "last_success_at": "2026-10-26T17:25:13+00:00",
           "manual_review_required": false,
           "url": "https://www.indorgsociety.org/conference"
         }
@@ -299,10 +299,10 @@
           "content_hash": "398f5474665089222e07c754dd3c74120f115afa686b81b28f65808e805dc6ac",
           "first_success_at": "2026-10-19T16:31:00+00:00",
           "last_changed_at": "2026-10-19T16:31:00+00:00",
-          "last_checked_at": "2026-10-26T16:10:53+00:00",
+          "last_checked_at": "2026-10-26T17:25:13+00:00",
           "last_error": null,
           "last_http_status": 200,
-          "last_success_at": "2026-10-26T16:10:53+00:00",
+          "last_success_at": "2026-10-26T17:25:13+00:00",
           "manual_review_required": false,
           "url": "https://www.nber.org/calls-papers-and-proposals/economic-analysis-regulation"
         }
@@ -318,10 +318,10 @@
           "content_hash": "d5ff1331baf8b03a9aba1ab3d68255aab146c1c865a1e36bc0588568ddc87550",
           "first_success_at": "2026-09-08T02:08:08+00:00",
           "last_changed_at": "2026-10-19T16:31:00+00:00",
-          "last_checked_at": "2026-10-26T16:10:53+00:00",
+          "last_checked_at": "2026-10-26T17:25:13+00:00",
           "last_error": null,
           "last_http_status": 200,
-          "last_success_at": "2026-10-26T16:10:53+00:00",
+          "last_success_at": "2026-10-26T17:25:13+00:00",
           "manual_review_required": false,
           "url": "https://www.nber.org/calls-papers-and-proposals"
         }
@@ -337,10 +337,10 @@
           "content_hash": "0c3c928c46d12481413eecc4ba1de43efbf8fbec5fbbff9672c33ba845a64b13",
           "first_success_at": "2026-09-08T02:08:08+00:00",
           "last_changed_at": "2026-09-28T17:41:58+00:00",
-          "last_checked_at": "2026-10-26T16:10:53+00:00",
+          "last_checked_at": "2026-10-26T17:25:13+00:00",
           "last_error": null,
           "last_http_status": 200,
-          "last_success_at": "2026-10-26T16:10:53+00:00",
+          "last_success_at": "2026-10-26T17:25:13+00:00",
           "manual_review_required": false,
           "url": "https://economics.stanford.edu/site/paper-submission"
         }
@@ -356,10 +356,10 @@
           "content_hash": "2fb5830b279569098da7ad9aea9e802da7d9d79552c01f62481d7634b6ab39e3",
           "first_success_at": "2026-09-08T02:08:08+00:00",
           "last_changed_at": "2026-09-08T02:08:08+00:00",
-          "last_checked_at": "2026-10-26T16:10:53+00:00",
+          "last_checked_at": "2026-10-26T17:25:13+00:00",
           "last_error": null,
           "last_http_status": 200,
-          "last_success_at": "2026-10-26T16:10:53+00:00",
+          "last_success_at": "2026-10-26T17:25:13+00:00",
           "manual_review_required": false,
           "url": "https://occasionalworkshop.weebly.com/"
         }
@@ -375,10 +375,10 @@
           "content_hash": "d1d91b7322c6120763b8a6f4225099ac3ea2f365c60426143084d59ae958bf47",
           "first_success_at": "2026-09-08T02:08:08+00:00",
           "last_changed_at": "2026-09-21T15:55:45+00:00",
-          "last_checked_at": "2026-10-26T16:10:53+00:00",
+          "last_checked_at": "2026-10-26T17:25:13+00:00",
           "last_error": null,
           "last_http_status": 200,
-          "last_success_at": "2026-10-26T16:10:53+00:00",
+          "last_success_at": "2026-10-26T17:25:13+00:00",
           "manual_review_required": false,
           "url": "https://sites.wustl.edu/egsc/"
         }
